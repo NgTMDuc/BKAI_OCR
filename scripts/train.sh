@@ -1,1 +1,1 @@
-python ../main.py
+python BKAI_OCR/main.py
